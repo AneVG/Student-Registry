@@ -1,1 +1,1 @@
-New Application - Student
+Student App
