@@ -1,1 +1,1 @@
-Sdudent App
+Sdudent Application
