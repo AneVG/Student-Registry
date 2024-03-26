@@ -1,1 +1,1 @@
-Sdudent Application
+New Application - Student
